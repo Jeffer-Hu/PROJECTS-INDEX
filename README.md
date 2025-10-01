@@ -20,4 +20,3 @@
 ## 💼 WEBSITE Series - Personal Website
 | Number | Project Name | Web Page | Status |
 |------|----------|--------|------|------|
-| 0001 | [Python装饰器大全](SKILLS-0001-Python-Decorators) | Python, 元编程 | ⭐⭐ | 常用装饰器实现与示例 |
