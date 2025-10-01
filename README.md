@@ -1,2 +1,20 @@
-# PROJECTS-INDEX
-The Navigation of My Repository
+# PROJECTS-INDEX/README.md
+
+## 🎯 项目导航总览
+
+### 🎮 FUN系列 - 兴趣探索
+| 编号 | 项目名称 | 技术栈 | 状态 | 简介 |
+|------|----------|--------|------|------|
+| 0001 | [蒙特卡洛求π](FUN-0001-MonteCarlo-Pi) | Python, 随机算法 | ✅完成 | 通过随机采样估算圆周率 |
+| 0002 | [斐波那契探索](FUN-0002-Fibonacci-Research) | Python, 数学 | 🔄进行中 | 研究兔子数列的数学特性 |
+
+### 💼 SKILLS系列 - 技能构建  
+| 编号 | 项目名称 | 技术栈 | 难度 | 用途 |
+|------|----------|--------|------|------|
+| 0001 | [Python装饰器大全](SKILLS-0001-Python-Decorators) | Python, 元编程 | ⭐⭐ | 常用装饰器实现与示例 |
+
+### 📚 WORKS系列 - 学习实践
+| 编号 | 分类 | 项目名称 | 来源 | 完成度 |
+|------|------|----------|------|--------|
+| 001 | 算法 | [插入排序实现](WORKS-001-CLRS-InsertionSort) | CLRS 第2章 | ✅ |
+| 002 | 系统 | [Shell实现](WORKS-002-OS-Shell) | 操作系统课程 | 🔄 |
