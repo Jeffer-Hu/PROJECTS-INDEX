@@ -32,3 +32,7 @@
 | A010 | [CV](https://cv.huyang3780.top) | CV Page | 🔄Constructing | |
 | A011 | [Research](https://research.huyang3780.top) | Research Page | 🔄Constructing | |
 
+##📊 FORK Series - My Forks
+| Number | Project Name | Explanation | Remarks |
+|------|------|----------|--------|
+| 0001 | [JMComic](https://github.com/Jeffer-Hu/FORK-0001-JMComic) | Plugin | |
